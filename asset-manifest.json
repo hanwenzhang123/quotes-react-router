@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/quotes-react-router/static/css/main.8b4b242a.chunk.css",
+    "main.js": "/quotes-react-router/static/js/main.3f1e5d2f.chunk.js",
+    "main.js.map": "/quotes-react-router/static/js/main.3f1e5d2f.chunk.js.map",
+    "runtime-main.js": "/quotes-react-router/static/js/runtime-main.01e185ce.js",
+    "runtime-main.js.map": "/quotes-react-router/static/js/runtime-main.01e185ce.js.map",
+    "static/js/2.72c99778.chunk.js": "/quotes-react-router/static/js/2.72c99778.chunk.js",
+    "static/js/2.72c99778.chunk.js.map": "/quotes-react-router/static/js/2.72c99778.chunk.js.map",
+    "index.html": "/quotes-react-router/index.html",
+    "static/css/main.8b4b242a.chunk.css.map": "/quotes-react-router/static/css/main.8b4b242a.chunk.css.map",
+    "static/js/2.72c99778.chunk.js.LICENSE.txt": "/quotes-react-router/static/js/2.72c99778.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e185ce.js",
+    "static/js/2.72c99778.chunk.js",
+    "static/css/main.8b4b242a.chunk.css",
+    "static/js/main.3f1e5d2f.chunk.js"
+  ]
+}
